@@ -12,7 +12,3 @@ jobs:
         run: yarn
       - name: Build
         run: yarn build
-      - name: Build SWC
-        run: yarn build:swc
-      - name: Build storybook
-        run: yarn storybook:build
