@@ -1,6 +1,6 @@
 import React from 'react';
 import {Text} from 'react-native';
-import {SimpleModal, SimpleModalProps} from '../SimpleModal';
+import {SimpleModal, SimpleModalProps} from '../src/SimpleModal';
 
 export default {
   title: 'Simple Modal',

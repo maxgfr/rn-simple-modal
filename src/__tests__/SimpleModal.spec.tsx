@@ -1,7 +1,7 @@
 import React from 'react';
 import {Text} from 'react-native';
 import {render} from '@testing-library/react-native';
-import {SimpleModal} from '../SimpleModal';
+import {SimpleModal} from '../src/SimpleModal';
 
 describe('SimpleModal', () => {
   it('renders correctly', () => {
