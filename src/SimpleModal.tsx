@@ -1,12 +1,12 @@
 import React from 'react';
 import {StyleSheet, View} from 'react-native';
 
-type Props = {
+export type SimpleModalProps = {
   isVisible: boolean;
   children: React.ReactNode;
 };
 
-export const SimpleModal = (props: Props) => {
+export const SimpleModal = (props: SimpleModalProps) => {
   return (
     <>
       {props.isVisible && (
