@@ -9,9 +9,9 @@
     "lint": "eslint ./src --ext .js,.jsx,.ts,.tsx",
     "release": "semantic-release"
   },
-  "dependencies": {
-    "react": "18.1.0",
-    "react-native": "0.70.6"
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
