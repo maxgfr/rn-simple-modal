@@ -1,6 +1,6 @@
 # rn-simple-modal
 
-A zero-dependencies and tiny modal without animation for [react-native](https://reactnative.dev/).
+A zero-dependencies and lightweight modal without animation for [react-native](https://reactnative.dev/).
 
 ## Installation
 
