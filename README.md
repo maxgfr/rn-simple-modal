@@ -10,7 +10,12 @@ yarn add rn-simple-modal
 
 ## Usage
 
-```sh
-yarn test # For running unit test
-yarn test:watch # For watching unit test
+```tsx
+import {SimpleModal} from "rn-simple-modal";
+
+.....
+
+<SimpleModal isVisble={true}>
+  <View>....</View>
+</SimpleModal>
 ```
