@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 maxgfr/rn-simple-modal is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -13,11 +14,13 @@ maxgfr/rn-simple-modal is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 maxgfr/rn-simple-modal is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -29,14 +32,15 @@ maxgfr/rn-simple-modal is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [maxgfr/rn-simple-modal](https://github.com/maxgfr/rn-simple-modal)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|11/10/23 <br/>Report generated|
+|31<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -173,9 +177,9 @@ Full tech stack [here](/techstack.md)
 |[@semantic-release/npm](https://www.npmjs.com/@semantic-release/npm)|v9.0.1|12/01/22|maxgfr |MIT|N/A|
 |[@semantic-release/release-notes-generator](https://www.npmjs.com/@semantic-release/release-notes-generator)|v10.0.3|12/01/22|maxgfr |MIT|N/A|
 |[@types/jest](https://www.npmjs.com/@types/jest)|v26.0.24|12/02/22|maxgfr |MIT|N/A|
-|[@types/react](https://www.npmjs.com/@types/react)|v18.2.31|01/09/23|renovate[bot] |MIT|N/A|
+|[@types/react](https://www.npmjs.com/@types/react)|v18.2.41|01/09/23|renovate[bot] |MIT|N/A|
 |[@types/react-native](https://www.npmjs.com/@types/react-native)|v0.70.7|01/09/23|renovate[bot] |MIT|N/A|
-|[@types/react-test-renderer](https://www.npmjs.com/@types/react-test-renderer)|v18.0.5|01/09/23|renovate[bot] |MIT|N/A|
+|[@types/react-test-renderer](https://www.npmjs.com/@types/react-test-renderer)|v18.0.7|01/09/23|renovate[bot] |MIT|N/A|
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v3.10.1|12/02/22|maxgfr |MIT|N/A|
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v3.10.1|12/02/22|maxgfr |BSD-2-Clause|N/A|
 |[babel-jest](https://www.npmjs.com/babel-jest)|v26.6.3|01/09/23|renovate[bot] |MIT|N/A|
@@ -186,4 +190,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
