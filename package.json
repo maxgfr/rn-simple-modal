@@ -1,7 +1,7 @@
 {
   "name": "rn-simple-modal",
   "description": "A zero-dependencies and lightweight modal without animation",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc -w",
